@@ -24,9 +24,6 @@ O Sistema de avaliação de preços - ACME é uma aplicação de gerenciamento d
 
 ## Estrutura do Projeto
 
-css
-
-
 
 `. 
 ├── public │   
@@ -56,24 +53,13 @@ css
 
 1. Clone o repositório:
 
-bash
-
-
-
 `git clone https://github.com/seu-usuario/andre_muller_PB_TP2.git`
 
 2. Navegue até o diretório do projeto:
 
-bash
-
-
 `cd andre_muller_PB_TP2`
 
 3. Instale as dependências:
-
-bash
-
-Copiar código
 
 `npm install`
 
@@ -81,17 +67,9 @@ Copiar código
 
 1. Inicie o servidor de desenvolvimento:
 
-bash
-
-Copiar código
-
 `npm run dev`
 
 2. Abra o navegador e acesse:
-
-arduino
-
-Copiar código
 
 `http://localhost:3000`
 
